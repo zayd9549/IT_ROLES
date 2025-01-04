@@ -63,4 +63,3 @@
 - **Infrastructure Engineer**: Plans and manages on-prem IT infrastructure, focusing on availability and performance.  
 
 - **Backup and Recovery Specialist**: Ensures on-prem systems are backed up and recoverable in disaster scenarios.  
-may overlap depending on the organization. Let me know if you'd like more details about any specific role!
